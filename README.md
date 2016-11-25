@@ -6,3 +6,5 @@ Install dependencies using
 
 Run using 
 `gulp watch`
+
+** change MySql parameters in /src/config/mysql.ts **
