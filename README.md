@@ -4,7 +4,7 @@ A sample project using node and typescript and passport for authentication with 
 Install dependencies using 
 `npm-install`
 
+**Change MySql parameters in /src/config/mysql.ts**
+
 Run using 
 `gulp watch`
-
-** change MySql parameters in /src/config/mysql.ts **
